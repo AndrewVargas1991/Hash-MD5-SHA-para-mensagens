@@ -1,0 +1,17 @@
+Instruções de uso do programa de Hash para arquivos
+
+1- Abra o programa Hash.py com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Digite o que você deseja calcular o hash e aperte ENTER.
+
+OBS: Para testar se o programa funcionou, com ele aberto digite Teste e aperte ENTER, os hashes da palavra Teste são esses:
+
+   MD5: 8e6f6f815b50f474cf0dc22d4f400725
+  SHA1: 6d7082969a0681db6fe658a26ff16198600f0923
+SHA224: e05a5c02529eb53b08a4ca8a14ce230e8b7467cea25f3c22367bf63b
+SHA256: 89f308210c7c7820bad0974f31e751bfa433d2066a93e808947c3188dedba6e3
+SHA384: 7ee1cb3c19dedc84c0b0e84bc70f9ca6ee41dcb09611ff51589c13223de0488d0499af84
+0b1b232daa7994f7c61cd188
+SHA512: 71a7676bf290b689fc7e6d5d89aba42ef012a448f9226b0667ca5d0fc0d5adfe9e5883b4
+12d42d05584274ad5f8915deb222be781c52ce1f9a61574ed09ca3ca
